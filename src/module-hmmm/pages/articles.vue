@@ -1,6 +1,9 @@
 <template>
   <div class="dashboard-container">
-    <div class="app-container">面试技巧</div>
+    <div class="app-container">
+     <el-row>
+      <el-button type="info" plain></el-button>
+    </div>
   </div>
 </template>
 
