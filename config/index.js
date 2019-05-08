@@ -15,6 +15,7 @@ module.exports = {
                 target: 'http://mock.course.itcast.cn/mock/20',
                 // target: 'https://www.easy-mock.com/mock/5ab213e33666166110a94928/admin',
                 // target: 'http://127.0.0.1:7001',
+                // target: 'http: //hmapi.course.itcast.cn',
                 changeOrigin: true,
                 pathRewrite: {
                     '^/api': ''

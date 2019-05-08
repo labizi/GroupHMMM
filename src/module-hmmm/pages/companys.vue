@@ -346,6 +346,7 @@ export default {
         status = '禁用'
       } else {
         val.state = 1
+        
         status = '启用'
       }
       var data = {
